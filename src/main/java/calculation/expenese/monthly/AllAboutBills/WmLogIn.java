@@ -16,7 +16,7 @@ public class WmLogIn implements LogInSite{
 
 	}
 
-	public void enterCredentials() {
+	public void enterCredentials(LoginCredentialBeans beans) {
 		loginObject.getWmUserName().sendKeys("");
 		loginObject.getWmPassWord().sendKeys("");
 	}

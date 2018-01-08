@@ -3,8 +3,9 @@ package calculation.expenese.monthly.AllAboutBills;
 import org.openqa.selenium.By;
 
 
-import PageObjects.LoginObjects;
-import PageObjects.PageObjectsInterface;
+
+import PageObjectsAndBeans.LoginObjects;
+import PageObjectsAndBeans.PageObjectsInterface;
 
 public class WmLogIn implements LogInSite{
 

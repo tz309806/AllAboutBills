@@ -1,7 +1,7 @@
 package calculation.expenese.monthly.AllAboutBills;
 
-import PageObjects.LoginObjects;
-import PageObjects.PageObjectsInterface;
+import PageObjectsAndBeans.LoginObjects;
+import PageObjectsAndBeans.PageObjectsInterface;
 
 public class AePLogin implements LogInSite{
 	
